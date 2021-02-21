@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+}
+
+.lastResult {
+    color: white;
+    padding: 3px;
+    max-width: 200px;
+    margin: auto;
+    font-weight: bold;
+}
